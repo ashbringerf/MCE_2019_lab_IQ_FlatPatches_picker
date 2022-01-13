@@ -1,0 +1,9 @@
+{
+	"p_4x4_loop_step"   : 16,
+    "p_downscale_shift" : 2,
+    "p_split_level"     : 3,
+    "p_split_th"        : 0.1,
+    "p_mask_th"         : 0.2,
+    "p_mask_block_size" : 64,
+    "p_DEBUG"           : true
+}
